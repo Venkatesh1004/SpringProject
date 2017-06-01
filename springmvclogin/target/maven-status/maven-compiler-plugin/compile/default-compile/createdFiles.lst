@@ -1,0 +1,5 @@
+com\easylearnjava\model\LoginFormDemo.class
+com\easylearnjava\controller\LoginControllerDemo.class
+com\easylearnjava\loginservice\LoginServiceDemo.class
+com\easylearnjava\controller\RegisterControllerDemo.class
+com\easylearnjava\logindao\LoginDaoDemo.class
